@@ -5,6 +5,6 @@ Cursos e Projetos relacionados ao Python
 
 Este projeto foi desenvolvido e testado utilizando a seguinte versão do Python:
 
-- **Python 3.13.12
+- **Python 3.13.12**
 
 > Certifique-se de usar a versão acima ou superior para evitar problemas de compatibilidade.
